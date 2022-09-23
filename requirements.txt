@@ -1,0 +1,8 @@
+pandas==1.4.4
+fastjsonschema==2.16.1
+jsonschema==4.16.0
+requests==2.25.1
+streamlit==1.12.2
+cvxpy==1.2.1
+numpy==1.23.3
+plotly==5.10.0

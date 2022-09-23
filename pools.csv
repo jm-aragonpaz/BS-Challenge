@@ -1,0 +1,273 @@
+id,name,chain,protocol,base,reward,apy,tvl,link,is_new,watched,class,has_rewards
+272648,USDC-USDT,Optimism,Uniswap,1.0516357,0.0,1.0516357,1187848,https://api.coindix.com/vault/272648/redirect,False,False,C,no
+72157,USDC-FRAX,Fantom,Autofarm,0.58001939,0.0,0.58001939,51927,https://api.coindix.com/vault/72157/redirect,False,False,C,no
+273885,USDT-DAI,Optimism,Uniswap,0.4861232,0.0,0.4861232,280289,https://api.coindix.com/vault/273885/redirect,False,False,C,no
+272821,DOLA-USDC,Ethereum,Uniswap,0.4488475,0.0,0.4488475,294373,https://api.coindix.com/vault/272821/redirect,False,False,C,no
+273059,FEI-USDC,Ethereum,Uniswap,0.3205559,0.0,0.3205559,146997,https://api.coindix.com/vault/273059/redirect,False,False,C,no
+272205,DAI-FEI,Ethereum,Uniswap,0.1823029,0.0,0.1823029,3276649,https://api.coindix.com/vault/272205/redirect,False,False,C,no
+45841,MIM-USDC,Fantom,Beefy,0.13264775,0.0,0.13264775,307144,https://api.coindix.com/vault/45841/redirect,False,False,C,no
+272254,FRAX-USDC,Ethereum,Uniswap,0.1257794,0.0,0.1257794,960195,https://api.coindix.com/vault/272254/redirect,False,False,C,no
+272214,BUSD-USDC,Ethereum,Uniswap,0.1117159,0.0,0.1117159,616221,https://api.coindix.com/vault/272214/redirect,False,False,C,no
+67093,USDT,Ethereum,cBridge,0.02458498,0.0848285,0.10941347,1563820,https://api.coindix.com/vault/67093/redirect,False,False,C,yes
+79263,TOR-DAI-USDC,Fantom,Hector,0.0,0.0967,0.0967,14850062,https://api.coindix.com/vault/79263/redirect,False,False,B,yes
+124579,TOR-DAI-USDC,Fantom,Beefy,0.09667212,0.0,0.09667212,11541028,https://api.coindix.com/vault/124579/redirect,False,False,B,no
+75938,USDC,Ethereum,Maple,0.0712,0.025,0.0962,506750000,https://api.coindix.com/vault/75938/redirect,False,False,A,yes
+40921,USDT-USDC,Cronos,VVS,0.00014,0.09446489,0.09460489,246960000,https://api.coindix.com/vault/40921/redirect,False,False,A,yes
+122840,USDC,Ethereum,StakeDAO,0.06473764,0.02908926,0.09382689,2496686,https://api.coindix.com/vault/122840/redirect,False,False,C,yes
+75937,USDC,Ethereum,Maple,0.0657,0.025,0.0907,559050400,https://api.coindix.com/vault/75937/redirect,False,False,A,yes
+67090,USDC,BNB Chain,cBridge,0.03416483,0.05615989,0.09032472,2834547,https://api.coindix.com/vault/67090/redirect,False,False,C,yes
+120862,FRAX-USDC-BUSD-USDT,Moonriver,Beefy,0.09026136,0.0,0.09026136,419965,https://api.coindix.com/vault/120862/redirect,False,False,C,no
+16770,MIM-USDC-fUSDT,Fantom,Beefy,0.08828722,0.0,0.08828722,6319687,https://api.coindix.com/vault/16770/redirect,False,False,C,no
+203832,DAI,Waves,Vires,0.08806903,0.00014006,0.0882091,42464,https://api.coindix.com/vault/203832/redirect,False,False,C,yes
+272925,GUSD-USDC,Ethereum,Uniswap,0.0863296,0.0,0.0863296,360950,https://api.coindix.com/vault/272925/redirect,False,False,C,no
+67108,USDT,Arbitrum,cBridge,0.00421803,0.08189459,0.08611262,1619845,https://api.coindix.com/vault/67108/redirect,False,False,C,yes
+67109,USDC,Arbitrum,cBridge,0.00869149,0.0759644,0.08465589,2095558,https://api.coindix.com/vault/67109/redirect,False,False,C,yes
+203833,BUSD,Waves,Vires,0.08320501,0.00044979,0.0836548,92246,https://api.coindix.com/vault/203833/redirect,False,False,C,yes
+15942,MIM-USDC-USDT,Arbitrum,Beefy,0.082744,0.0,0.082744,9348834,https://api.coindix.com/vault/15942/redirect,False,False,C,no
+15163,DAI-USDC-USDT-HUSD,Heco,Autofarm,0.0817449,0.0,0.0817449,829216,https://api.coindix.com/vault/15163/redirect,False,False,C,no
+36113,DAI-USDC-USDT-HUSD,Heco,Belt,0.0,0.0811,0.0811,1200000,https://api.coindix.com/vault/36113/redirect,False,False,C,yes
+67101,USDT,Polygon,cBridge,0.00434256,0.07550026,0.07984283,1757034,https://api.coindix.com/vault/67101/redirect,False,False,C,yes
+69473,USDT-USDC,Cronos,Autofarm,0.07349042,0.0,0.07349042,124606,https://api.coindix.com/vault/69473/redirect,False,False,C,no
+67091,USDC,Ethereum,cBridge,0.02811743,0.0452707,0.07338812,3516355,https://api.coindix.com/vault/67091/redirect,False,False,C,yes
+67120,USDT,Optimism,cBridge,0.00057735,0.06910939,0.06968674,2021831,https://api.coindix.com/vault/67120/redirect,False,False,C,yes
+38539,DOLA,Ethereum,Yearn,0.069,0.0,0.069,204679,https://api.coindix.com/vault/38539/redirect,False,False,C,no
+273287,FRAX-USDC,Ethereum,Uniswap,0.0683431,0.0,0.0683431,209023,https://api.coindix.com/vault/273287/redirect,False,False,C,no
+272698,DAI-USDT,Polygon,Uniswap,0.0673888,0.0,0.0673888,48290,https://api.coindix.com/vault/272698/redirect,False,False,C,no
+36111,HUSD,Heco,Belt,0.0,0.0669,0.0669,700000,https://api.coindix.com/vault/36111/redirect,False,False,C,yes
+55777,FUSDT-USDC,Fantom,ProtoFi,0.0,0.0669,0.0669,199954,https://api.coindix.com/vault/55777/redirect,False,False,C,yes
+67095,USDT,BNB Chain,cBridge,0.01647262,0.04870625,0.06517887,2723604,https://api.coindix.com/vault/67095/redirect,False,False,C,yes
+272288,DAI-USDC,Arbitrum,Uniswap,0.064046,0.0,0.064046,2824701,https://api.coindix.com/vault/272288/redirect,False,False,C,no
+113657,USDC,Avalanche,InsurAce,0.0,0.0637,0.0637,1503442,https://api.coindix.com/vault/113657/redirect,False,False,C,yes
+115426,USDT,Avalanche,Stargate,0.0,0.0631,0.0631,41095979,https://api.coindix.com/vault/115426/redirect,False,False,B,yes
+67138,BUSD,BNB Chain,cBridge,0.05991288,0.0,0.05991288,86959,https://api.coindix.com/vault/67138/redirect,False,False,C,no
+113648,USDC,BNB Chain,InsurAce,0.0,0.0598,0.0598,194834,https://api.coindix.com/vault/113648/redirect,False,False,C,yes
+35038,VAI-BUSD,BNB Chain,Alpaca,0.0016951,0.0579423,0.05973534,53346,https://api.coindix.com/vault/35038/redirect,False,False,C,yes
+113647,BUSD,BNB Chain,InsurAce,0.0,0.0589,0.0589,742967,https://api.coindix.com/vault/113647/redirect,False,False,C,yes
+113652,USDT,Polygon,InsurAce,0.0,0.0587,0.0587,650313,https://api.coindix.com/vault/113652/redirect,False,False,C,yes
+272267,USDC-DAI,Optimism,Uniswap,0.0583262,0.0,0.0583262,2998252,https://api.coindix.com/vault/272267/redirect,False,False,C,no
+16972,MAI-USDT,Polygon,Beefy,0.05812941,0.0,0.05812941,236202,https://api.coindix.com/vault/16972/redirect,False,False,C,no
+69475,USDT-BUSD,Cronos,Autofarm,0.05803178,0.0,0.05803178,26420,https://api.coindix.com/vault/69475/redirect,False,False,C,no
+145783,BUSD-USDT-DAI-MIM,BNB Chain,ACryptoS,0.0069,0.051,0.0579,173000,https://api.coindix.com/vault/145783/redirect,False,False,C,yes
+113643,USDT,BNB Chain,InsurAce,0.0,0.057,0.057,426126,https://api.coindix.com/vault/113643/redirect,False,False,C,yes
+113659,USDT,Avalanche,InsurAce,0.0,0.0562,0.0562,832130,https://api.coindix.com/vault/113659/redirect,False,False,C,yes
+113637,DAI,Ethereum,InsurAce,0.0,0.0561,0.0561,958583,https://api.coindix.com/vault/113637/redirect,False,False,C,yes
+113649,DAI,Polygon,InsurAce,0.0,0.0555,0.0555,1093500,https://api.coindix.com/vault/113649/redirect,False,False,C,yes
+35016,TUSD-BUSD,BNB Chain,Alpaca,0.01857143,0.11850665,0.05544592,1073000,https://api.coindix.com/vault/35016/redirect,False,False,C,yes
+15055,DAI-USDC,Fantom,Autofarm,0.05516476,0.0,0.05516476,65599,https://api.coindix.com/vault/15055/redirect,False,False,C,no
+43331,EURS-USDC,Ethereum,Yearn,0.055,0.0,0.055,91361,https://api.coindix.com/vault/43331/redirect,False,False,C,no
+67113,USDT,Aurora,cBridge,0.0,0.05434665,0.05434665,976373,https://api.coindix.com/vault/67113/redirect,False,False,C,yes
+17023,MAI-USDC,Polygon,Beefy,0.0529143,0.0,0.0529143,8653327,https://api.coindix.com/vault/17023/redirect,False,False,C,no
+113654,USDC,Polygon,InsurAce,0.0,0.0526,0.0526,1683596,https://api.coindix.com/vault/113654/redirect,False,False,C,yes
+272609,MIM-USDC,Ethereum,Uniswap,0.0525452,0.0,0.0525452,165024,https://api.coindix.com/vault/272609/redirect,False,False,C,no
+17559,USDC,BNB Chain,Cream,0.052433,0.0,0.052433,226843,https://api.coindix.com/vault/17559/redirect,False,False,C,no
+274364,USDC-FRAX,Polygon,Uniswap,0.0520538,0.0,0.0520538,42075,https://api.coindix.com/vault/274364/redirect,False,False,C,no
+185455,USDC,Ethereum,Sturdy,0.05189164,0.0,0.05189164,5635133,https://api.coindix.com/vault/185455/redirect,False,False,C,no
+185456,USDT,Ethereum,Sturdy,0.05189164,0.0,0.05189164,237648,https://api.coindix.com/vault/185456/redirect,False,False,C,no
+185454,DAI,Ethereum,Sturdy,0.05189164,0.0,0.05189164,503332,https://api.coindix.com/vault/185454/redirect,False,False,C,no
+272330,USDT-USDC,Arbitrum,Uniswap,0.0510512,0.0,0.0510512,2539499,https://api.coindix.com/vault/272330/redirect,False,False,C,no
+63582,HUSD-USDT,Heco,MDEX,0.03796516,0.01298738,0.05095254,1193411,https://api.coindix.com/vault/63582/redirect,False,False,C,yes
+92940,USDC,Fantom,Stargate,0.0,0.0508,0.0508,20906550,https://api.coindix.com/vault/92940/redirect,False,False,B,yes
+63465,BUSD-USDT,BNB Chain,MDEX,0.00990333,0.0408002,0.05070353,2496894,https://api.coindix.com/vault/63465/redirect,False,False,C,yes
+115427,USDT,Polygon,Stargate,0.0,0.0503,0.0503,19267597,https://api.coindix.com/vault/115427/redirect,False,False,B,yes
+17541,BUSD,BNB Chain,Cream,0.05015,0.0,0.05015,463303,https://api.coindix.com/vault/17541/redirect,False,False,C,no
+272991,BUSD-USDT,Ethereum,Uniswap,0.0496169,0.0,0.0496169,307080,https://api.coindix.com/vault/272991/redirect,False,False,C,no
+14477,USDT-BUSD,BNB Chain,Autofarm,0.04943923,0.0,0.04943923,243743,https://api.coindix.com/vault/14477/redirect,False,False,C,no
+113658,DAI,Avalanche,InsurAce,0.0,0.0492,0.0492,1112942,https://api.coindix.com/vault/113658/redirect,False,False,C,yes
+67115,USDC,Optimism,cBridge,0.00089513,0.04786459,0.04875972,2919225,https://api.coindix.com/vault/67115/redirect,False,False,C,yes
+17621,USDT.e,Avalanche,Cream,0.048342,0.0,0.048342,925322,https://api.coindix.com/vault/17621/redirect,False,False,C,no
+75275,TUSD-USDC,Cronos,Autofarm,0.04803677,0.0,0.04803677,29925,https://api.coindix.com/vault/75275/redirect,False,False,C,no
+115428,ETH,Arbitrum,Stargate,0.0,0.048,0.048,2861918,https://api.coindix.com/vault/115428/redirect,False,False,C,yes
+120865,USDC-BUSD-USDT,Moonriver,Beefy,0.04794507,0.0,0.04794507,817970,https://api.coindix.com/vault/120865/redirect,False,False,C,no
+63652,DAI-USDT,Heco,MDEX,0.01945588,0.02777164,0.04722752,29067,https://api.coindix.com/vault/63652/redirect,False,False,C,yes
+113639,USDT,Ethereum,InsurAce,0.0,0.0472,0.0472,1011788,https://api.coindix.com/vault/113639/redirect,False,False,C,yes
+36112,USDT-USDC-BUSD-DAI,BNB Chain,Belt,0.0,0.0471,0.0471,12300000,https://api.coindix.com/vault/36112/redirect,False,False,B,yes
+113636,USDC,Ethereum,InsurAce,0.0,0.046,0.046,2530923,https://api.coindix.com/vault/113636/redirect,False,False,C,yes
+67100,USDC,Polygon,cBridge,0.00471832,0.04096143,0.04567975,3886287,https://api.coindix.com/vault/67100/redirect,False,False,C,yes
+115424,USDT,BNB Chain,Stargate,0.0,0.0452,0.0452,28408126,https://api.coindix.com/vault/115424/redirect,False,False,B,yes
+17546,USDT,BNB Chain,Cream,0.044641,0.0,0.044641,332193,https://api.coindix.com/vault/17546/redirect,False,False,C,no
+115423,ETH,Ethereum,Stargate,0.0,0.0443,0.0443,37404559,https://api.coindix.com/vault/115423/redirect,False,False,B,yes
+17622,USDC.e,Avalanche,Cream,0.044061,0.0,0.044061,1779313,https://api.coindix.com/vault/17622/redirect,False,False,C,no
+273074,USDC-FRAX,Polygon,Uniswap,0.043907,0.0,0.043907,118702,https://api.coindix.com/vault/273074/redirect,False,False,C,no
+115429,ETH,Optimism,Stargate,0.0,0.0434,0.0434,899613,https://api.coindix.com/vault/115429/redirect,False,False,C,yes
+67097,USDC,Fantom,cBridge,0.0002784,0.04258122,0.04285962,1869226,https://api.coindix.com/vault/67097/redirect,False,False,C,yes
+43509,USDt-USDT.e,Avalanche,Trader Joe,0.0424,0.0,0.0424,1194266,https://api.coindix.com/vault/43509/redirect,False,False,C,no
+67124,USDC,Astar,cBridge,0.00174256,0.04042635,0.04216891,1312575,https://api.coindix.com/vault/67124/redirect,False,False,C,yes
+67103,USDT,Avalanche,cBridge,0.00038632,0.04147631,0.04186263,3198369,https://api.coindix.com/vault/67103/redirect,False,False,C,yes
+67918,USDT,Avalanche,Benqi,0.0418,0.0,0.0418,6610000,https://api.coindix.com/vault/67918/redirect,False,False,C,no
+36109,USDT,Heco,Belt,0.0,0.0416,0.0416,200000,https://api.coindix.com/vault/36109/redirect,False,False,C,yes
+15948,USDT-USDC,Arbitrum,Beefy,0.04130732,0.0,0.04130732,7900306,https://api.coindix.com/vault/15948/redirect,False,False,C,no
+17263,MIM,Ethereum,Yearn,0.0402,0.0,0.0402,732303,https://api.coindix.com/vault/17263/redirect,False,False,C,no
+67112,USDT,Fantom,cBridge,4.9e-06,0.04008308,0.04008798,1985724,https://api.coindix.com/vault/67112/redirect,False,False,C,yes
+40253,USDC-TUSD,Fantom,SpookySwap,0.00549738,0.03448242,0.0399798,855772,https://api.coindix.com/vault/40253/redirect,False,False,C,yes
+80173,MAI-USDT-USDC,Arbitrum,Balancer,0.0052,0.0342,0.0394,29222,https://api.coindix.com/vault/80173/redirect,False,False,C,yes
+31177,USDC.e-USDC,Avalanche,Trader Joe,0.0391,0.0,0.0391,18116349,https://api.coindix.com/vault/31177/redirect,False,False,B,no
+51284,FUSDT,Fantom,IronBank,0.0385,0.0,0.0385,29762,https://api.coindix.com/vault/51284/redirect,False,False,C,no
+17598,fUSDT,Fantom,Cream,0.038472,0.0,0.038472,29762,https://api.coindix.com/vault/17598/redirect,False,False,C,no
+67094,USDC,Aurora,cBridge,0.0,0.03805772,0.03805772,1394267,https://api.coindix.com/vault/67094/redirect,False,False,C,yes
+41087,DAI-USDT,BNB Chain,Biswap,0.0007,0.0369,0.0376,1919436,https://api.coindix.com/vault/41087/redirect,False,False,C,yes
+41053,BUSD-USDT,BNB Chain,Biswap,0.0007,0.0356,0.0363,29871694,https://api.coindix.com/vault/41053/redirect,False,False,B,yes
+15238,USDT-USDC,Cronos,Autofarm,0.03588745,0.0,0.03588745,316739,https://api.coindix.com/vault/15238/redirect,False,False,C,no
+272357,DAI-USDT,Arbitrum,Uniswap,0.0356311,0.0,0.0356311,116487,https://api.coindix.com/vault/272357/redirect,False,False,C,no
+272138,USDC-USDT,Ethereum,Uniswap,0.035309,0.0,0.035309,18372149,https://api.coindix.com/vault/272138/redirect,False,False,B,no
+16706,USDT-USDC,Cronos,Beefy,0.03501067,0.0,0.03501067,341323,https://api.coindix.com/vault/16706/redirect,False,False,C,no
+17623,DAI.e,Avalanche,Cream,0.034535,0.0,0.034535,150306,https://api.coindix.com/vault/17623/redirect,False,False,C,no
+106973,USDC-USDT,Fuse,Beefy,0.033992,0.0,0.033992,37170,https://api.coindix.com/vault/106973/redirect,False,False,C,no
+14942,USDC-USDT,Polygon,Autofarm,0.03394421,0.0,0.03394421,33096,https://api.coindix.com/vault/14942/redirect,False,False,C,no
+34988,USDT,BNB Chain,Alpaca,0.03170549,0.00190598,0.03361147,77581578,https://api.coindix.com/vault/34988/redirect,False,False,A,yes
+15117,FRAX-USDC,Moonriver,Autofarm,0.03309144,0.0,0.03309144,34070,https://api.coindix.com/vault/15117/redirect,False,False,C,no
+67092,USDC,Avalanche,cBridge,0.00097816,0.03201445,0.03299262,4972375,https://api.coindix.com/vault/67092/redirect,False,False,C,yes
+15267,USDT.e-DAI.e,Avalanche,Trader Joe,0.0323,0.0,0.0323,112572,https://api.coindix.com/vault/15267/redirect,False,False,C,no
+16735,USDC-MAI,Fantom,Beefy,0.03195023,0.0,0.03195023,1075016,https://api.coindix.com/vault/16735/redirect,False,False,C,no
+41065,USDC-USDT,BNB Chain,Biswap,0.0005,0.0313,0.0318,11973940,https://api.coindix.com/vault/41065/redirect,False,False,B,yes
+164433,MAI-BUSD-USDC-USDT,BNB Chain,Ellipsis,0.0,0.031134,0.031134,824592,https://api.coindix.com/vault/164433/redirect,False,False,C,yes
+142203,USDT-BUSD,BNB Chain,Beefy,0.03110216,0.0,0.03110216,46506,https://api.coindix.com/vault/142203/redirect,False,False,C,no
+14790,USDT-BUSD,BNB Chain,Autofarm,0.03100014,0.0,0.03100014,146016,https://api.coindix.com/vault/14790/redirect,False,False,C,no
+39834,USDC,BNB Chain,Alpaca,0.02722942,0.00374787,0.03097729,20657897,https://api.coindix.com/vault/39834/redirect,False,False,B,yes
+16744,fUSDT-USDC-DAI,Fantom,Beefy,0.03084707,0.0,0.03084707,5380933,https://api.coindix.com/vault/16744/redirect,False,False,C,no
+272342,USDC-DAI,Polygon,Uniswap,0.0301726,0.0,0.0301726,1699603,https://api.coindix.com/vault/272342/redirect,False,False,C,no
+36110,USDC,Heco,Belt,0.0,0.029,0.029,200000,https://api.coindix.com/vault/36110/redirect,False,False,C,yes
+35037,USDT-BUSD,BNB Chain,Alpaca,0.01630769,0.01226905,0.02877626,151754,https://api.coindix.com/vault/35037/redirect,False,False,C,yes
+17671,DAI,BNB Chain,Venus,0.01961203,0.00897878,0.02859081,6947265,https://api.coindix.com/vault/17671/redirect,False,False,C,yes
+36108,DAI,Heco,Belt,0.0,0.0276,0.0276,200000,https://api.coindix.com/vault/36108/redirect,False,False,C,yes
+16409,DAI-BUSD,BNB Chain,Beefy,0.02724244,0.0,0.02724244,37905,https://api.coindix.com/vault/16409/redirect,False,False,C,no
+16973,MAI-DAI,Polygon,Beefy,0.02715764,0.0,0.02715764,225610,https://api.coindix.com/vault/16973/redirect,False,False,C,no
+14083,DAI-USDT-USDC,Arbitrum,Balancer,0.0271,0.0,0.0271,878662,https://api.coindix.com/vault/14083/redirect,False,False,C,no
+54147,USDC-USDT,Aurora,Beefy,0.0267705,0.0,0.0267705,55436,https://api.coindix.com/vault/54147/redirect,False,False,C,no
+145782,BUSD-USDC-TUSD,BNB Chain,ACryptoS,0.0,0.0265,0.0265,326000,https://api.coindix.com/vault/145782/redirect,False,False,C,yes
+16374,USDT-BUSD,BNB Chain,Beefy,0.02609312,0.0,0.02609312,561163,https://api.coindix.com/vault/16374/redirect,False,False,C,no
+14793,USDT-USDC,BNB Chain,Autofarm,0.02599969,0.0,0.02599969,41234,https://api.coindix.com/vault/14793/redirect,False,False,C,no
+40278,USDC-fUSDT,Fantom,SpookySwap,0.0259,0.0,0.0259,112240,https://api.coindix.com/vault/40278/redirect,False,False,C,no
+17339,BUSD,BNB Chain,ACryptoS,0.0259,0.0,0.0259,105000,https://api.coindix.com/vault/17339/redirect,False,False,C,no
+51843,USDT-USDC-BUSD-DAI,BNB Chain,Autofarm,0.02570555,0.0,0.02570555,432959,https://api.coindix.com/vault/51843/redirect,False,False,C,no
+113628,USDT-BUSD,BNB Chain,Autofarm,0.02550092,0.0,0.02550092,557876,https://api.coindix.com/vault/113628/redirect,False,False,C,no
+108642,USDT-BUSD,BNB Chain,Beefy,0.024919,0.0,0.024919,1253309,https://api.coindix.com/vault/108642/redirect,False,False,C,no
+14601,USDT-USDC-BUSD-DAI,BNB Chain,Autofarm,0.02480575,0.0,0.02480575,1409355,https://api.coindix.com/vault/14601/redirect,False,False,C,no
+40491,USDC-MAI,Fantom,SpookySwap,0.00909503,0.01552954,0.02462457,1717251,https://api.coindix.com/vault/40491/redirect,False,False,C,yes
+67919,DAI,Avalanche,Benqi,0.0244,0.0,0.0244,26120000,https://api.coindix.com/vault/67919/redirect,False,False,B,no
+36100,DAI,BNB Chain,Belt,0.0,0.0243,0.0243,2200000,https://api.coindix.com/vault/36100/redirect,False,False,C,yes
+35020,USDC-USDT,BNB Chain,Alpaca,0.00693086,0.01696198,0.02401008,102546,https://api.coindix.com/vault/35020/redirect,False,False,C,yes
+32960,USDC,Avalanche,Cream,0.023657,0.0,0.023657,817679,https://api.coindix.com/vault/32960/redirect,False,False,C,no
+16075,FRAX-BUSD,BNB Chain,Beefy,0.02288588,0.0,0.02288588,100706,https://api.coindix.com/vault/16075/redirect,False,False,C,no
+36101,BUSD,BNB Chain,Belt,0.0,0.0228,0.0228,3500000,https://api.coindix.com/vault/36101/redirect,False,False,C,yes
+16219,USDT-USDC,BNB Chain,Beefy,0.02228241,0.0,0.02228241,276113,https://api.coindix.com/vault/16219/redirect,False,False,C,no
+272627,DAI-USDT,Ethereum,Uniswap,0.0222501,0.0,0.0222501,1355947,https://api.coindix.com/vault/272627/redirect,False,False,C,no
+272162,USDC-USDT,Ethereum,Uniswap,0.0218347,0.0,0.0218347,13739866,https://api.coindix.com/vault/272162/redirect,False,False,B,no
+45563,USDC.e-USDC,Avalanche,Pangolin,0.00178447,0.02,0.02178447,2931304,https://api.coindix.com/vault/45563/redirect,False,False,C,yes
+14921,USDC-DAI,Polygon,Autofarm,0.02168102,0.0,0.02168102,51026,https://api.coindix.com/vault/14921/redirect,False,False,C,no
+17553,DAI,BNB Chain,Cream,0.021499,0.0,0.021499,45187,https://api.coindix.com/vault/17553/redirect,False,False,C,no
+16981,USDC-DAI,Polygon,Beefy,0.02086362,0.0,0.02086362,933478,https://api.coindix.com/vault/16981/redirect,False,False,C,no
+17275,USDT,Ethereum,Yearn,0.0206,0.0,0.0206,17222049,https://api.coindix.com/vault/17275/redirect,False,False,B,no
+113709,USDT-USDC,BNB Chain,Autofarm,0.02026551,0.0,0.02026551,166318,https://api.coindix.com/vault/113709/redirect,False,False,C,no
+272113,USDC-USDT,Ethereum,Uniswap,0.0202464,0.0,0.0202464,167691311,https://api.coindix.com/vault/272113/redirect,False,False,A,no
+36102,USDT,BNB Chain,Belt,0.0,0.0202,0.0202,4000000,https://api.coindix.com/vault/36102/redirect,False,False,C,yes
+17660,USDC,BNB Chain,Venus,0.01313824,0.00684179,0.01998003,75896277,https://api.coindix.com/vault/17660/redirect,False,False,A,yes
+16940,DAI-USDC-USDT,Polygon,Beefy,0.01960171,0.0,0.01960171,1363391,https://api.coindix.com/vault/16940/redirect,False,False,C,no
+272305,USDC-USDT,Polygon,Uniswap,0.0194587,0.0,0.0194587,1949304,https://api.coindix.com/vault/272305/redirect,False,False,C,no
+16731,TUSD-USDC,Fantom,Beefy,0.01909757,0.0,0.01909757,214727,https://api.coindix.com/vault/16731/redirect,False,False,C,no
+34985,BUSD,BNB Chain,Alpaca,0.01647129,0.0025375,0.01900879,95068701,https://api.coindix.com/vault/34985/redirect,False,False,A,yes
+67083,USDC,Waves,Vires,0.01816298,0.00062944,0.01879242,72444908,https://api.coindix.com/vault/67083/redirect,False,False,A,yes
+67082,USDT,Waves,Vires,0.01816298,0.0005964,0.01875937,30361445,https://api.coindix.com/vault/67082/redirect,False,False,B,yes
+24784,DAI,Ethereum,Compound,0.00978489,0.00824868,0.01803356,343738886,https://api.coindix.com/vault/24784/redirect,False,False,A,yes
+272517,USDC-DAI,Optimism,Uniswap,0.0179515,0.0,0.0179515,868309,https://api.coindix.com/vault/272517/redirect,False,False,C,no
+17292,DAI,Ethereum,Yearn,0.0177,0.0,0.0177,45614723,https://api.coindix.com/vault/17292/redirect,False,False,B,no
+273012,USDC-DAI,Polygon,Uniswap,0.0170638,0.0,0.0170638,196597,https://api.coindix.com/vault/273012/redirect,False,False,C,no
+63651,USDC-USDT,Heco,MDEX,0.01084584,0.00511987,0.01596571,157670,https://api.coindix.com/vault/63651/redirect,False,False,C,yes
+45556,USDC.e-USDT.e,Avalanche,Pangolin,0.00583076,0.01,0.01583076,51832,https://api.coindix.com/vault/45556/redirect,False,False,C,yes
+17662,BUSD,BNB Chain,Venus,0.01166253,0.00405002,0.01571255,128035694,https://api.coindix.com/vault/17662/redirect,False,False,A,yes
+169994,XAUt-3Crv,Ethereum,Curve,0.0001,0.0156,0.0157,3600000,https://api.coindix.com/vault/169994/redirect,False,False,C,yes
+16408,USDC-BUSD,BNB Chain,Beefy,0.01495465,0.0,0.01495465,1928589,https://api.coindix.com/vault/16408/redirect,False,False,C,no
+17661,USDT,BNB Chain,Venus,0.01158049,0.00332423,0.01490472,155933976,https://api.coindix.com/vault/17661/redirect,False,False,A,yes
+36103,USDC,BNB Chain,Belt,0.0,0.0145,0.0145,2500000,https://api.coindix.com/vault/36103/redirect,False,False,C,yes
+17585,USDC,Fantom,Cream,0.014324,0.0,0.014324,925048,https://api.coindix.com/vault/17585/redirect,False,False,C,no
+51281,USDC,Fantom,IronBank,0.0143,0.0,0.0143,925048,https://api.coindix.com/vault/51281/redirect,False,False,C,no
+120690,DAI,Fantom,Sturdy,0.01429211,0.0,0.01429211,72078,https://api.coindix.com/vault/120690/redirect,False,False,C,no
+120688,USDC,Fantom,Sturdy,0.01429211,0.0,0.01429211,472853,https://api.coindix.com/vault/120688/redirect,False,False,C,no
+169996,wBTC-renBTC,Arbitrum,Curve,0.0001,0.0141,0.0142,9600000,https://api.coindix.com/vault/169996/redirect,False,False,C,yes
+17342,USDT,BNB Chain,ACryptoS,0.0138,0.0,0.0138,139000,https://api.coindix.com/vault/17342/redirect,False,False,C,no
+39238,MIM,Fantom,Yearn,0.0133,0.0,0.0133,218678,https://api.coindix.com/vault/39238/redirect,False,False,C,no
+22922,USDT,Ethereum,Aave,0.01327899,0.0,0.01327899,439161728,https://api.coindix.com/vault/22922/redirect,False,False,A,no
+274365,DAI-USDT,Polygon,Uniswap,0.0130087,0.0,0.0130087,31776,https://api.coindix.com/vault/274365/redirect,False,False,C,no
+17096,USDC-DAI,Polygon,Beefy,0.01277305,0.0,0.01277305,122112,https://api.coindix.com/vault/17096/redirect,False,False,C,no
+22931,DAI,Ethereum,Aave,0.01272303,0.0,0.01272303,263633753,https://api.coindix.com/vault/22931/redirect,False,False,A,no
+63470,DAI-USDT,BNB Chain,MDEX,7.343e-05,0.0126297,0.01270313,91592,https://api.coindix.com/vault/63470/redirect,False,False,C,yes
+74321,USDC-DAI,Fantom,Beefy,0.01243348,0.0,0.01243348,65124,https://api.coindix.com/vault/74321/redirect,False,False,C,no
+32723,MIM-USDC.e,Avalanche,Trader Joe,0.012,0.0,0.012,91121,https://api.coindix.com/vault/32723/redirect,False,False,C,no
+24783,USDC,Ethereum,Compound,0.00686139,0.00507223,0.01193363,614204405,https://api.coindix.com/vault/24783/redirect,False,False,A,yes
+106105,TUSD,BNB Chain,Valas,0.0027,0.0092,0.0119,1330000,https://api.coindix.com/vault/106105/redirect,False,False,C,yes
+14494,DAI-USDT,BNB Chain,Autofarm,0.0115391,0.0,0.0115391,66278,https://api.coindix.com/vault/14494/redirect,False,False,C,no
+16349,BUSD-USDC,BNB Chain,Beefy,0.01149585,0.0,0.01149585,436485,https://api.coindix.com/vault/16349/redirect,False,False,C,no
+15262,USDC.e-USDT.e,Avalanche,Trader Joe,0.0114,0.0,0.0114,169086,https://api.coindix.com/vault/15262/redirect,False,False,C,no
+15266,USDC.e-DAI.e,Avalanche,Trader Joe,0.0113,0.0,0.0113,57570,https://api.coindix.com/vault/15266/redirect,False,False,C,no
+17151,USDC-USDT,Polygon,Beefy,0.01079038,0.0,0.01079038,135470,https://api.coindix.com/vault/17151/redirect,False,False,C,no
+14226,USDT.E,Avalanche,Aave,0.0105413,0.0,0.0105413,11976964,https://api.coindix.com/vault/14226/redirect,False,False,B,no
+17281,USDC,Ethereum,Yearn,0.0099,0.0,0.0099,56072565,https://api.coindix.com/vault/17281/redirect,False,False,A,no
+67917,USDC,Avalanche,Benqi,0.0098,0.0,0.0098,9220000,https://api.coindix.com/vault/67917/redirect,False,False,C,no
+22955,USDT,Polygon,Aave,0.00964689,0.0,0.00964689,21195123,https://api.coindix.com/vault/22955/redirect,False,False,B,no
+14117,Balancer Stable USD,Ethereum,Balancer,0.0025,0.0071,0.0096,9607591,https://api.coindix.com/vault/14117/redirect,False,False,C,yes
+272316,DAI-USDT,Ethereum,Uniswap,0.0095536,0.0,0.0095536,1073068,https://api.coindix.com/vault/272316/redirect,False,False,C,no
+17679,TUSD,BNB Chain,Venus,0.00628798,0.00271475,0.00900273,15270738,https://api.coindix.com/vault/17679/redirect,False,False,B,yes
+17341,USDT,BNB Chain,ACryptoS,0.0085,0.0,0.0085,223000,https://api.coindix.com/vault/17341/redirect,False,False,C,no
+169990,wBTC-renBTC,Fantom,Curve,0.0001,0.008,0.0081,5200000,https://api.coindix.com/vault/169990/redirect,False,False,C,yes
+39239,DAI,Fantom,Yearn,0.0074,0.0,0.0074,5600310,https://api.coindix.com/vault/39239/redirect,False,False,C,no
+40265,USDC-DAI,Fantom,SpookySwap,0.0071,0.0,0.0071,221407,https://api.coindix.com/vault/40265/redirect,False,False,C,no
+22940,TUSD,Ethereum,Aave,0.00681389,0.0,0.00681389,43660981,https://api.coindix.com/vault/22940/redirect,False,False,B,no
+169992,DAI-USDC-USDT,Optimism,Curve,0.0034,0.0034,0.0068,21300000,https://api.coindix.com/vault/169992/redirect,False,False,B,yes
+207221,USDC,Fantom,Tarot,0.0066,0.0,0.0066,39708,https://api.coindix.com/vault/207221/redirect,False,False,C,no
+272177,FRAX-USDT,Ethereum,Uniswap,0.006544,0.0,0.006544,7846468,https://api.coindix.com/vault/272177/redirect,False,False,C,no
+17589,DAI,Fantom,Cream,0.006214,0.0,0.006214,317783,https://api.coindix.com/vault/17589/redirect,False,False,C,no
+51282,DAI,Fantom,IronBank,0.0062,0.0,0.0062,317783,https://api.coindix.com/vault/51282/redirect,False,False,C,no
+22949,USDP,Ethereum,Aave,0.00581217,0.0,0.00581217,882001,https://api.coindix.com/vault/22949/redirect,False,False,C,no
+22951,FRAX,Ethereum,Aave,0.00558055,0.0,0.00558055,27519069,https://api.coindix.com/vault/22951/redirect,False,False,B,no
+272427,USDC-USDT,Polygon,Uniswap,0.0055426,0.0,0.0055426,814518,https://api.coindix.com/vault/272427/redirect,False,False,C,no
+40327,USDC-MIM,Fantom,SpookySwap,0.0052,0.0,0.0052,422775,https://api.coindix.com/vault/40327/redirect,False,False,C,no
+283436,USDC-EURS,Polygon,Uniswap,0.00512,0.0,0.00512,25759,https://api.coindix.com/vault/283436/redirect,True,False,C,no
+67158,BUSD,Ethereum,cBridge,0.00499084,0.0,0.00499084,175680,https://api.coindix.com/vault/67158/redirect,False,False,C,no
+39237,USDC,Fantom,Yearn,0.0049,0.0,0.0049,4295556,https://api.coindix.com/vault/39237/redirect,False,False,C,no
+17138,USDC-USDT,Polygon,Beefy,0.0048183,0.0,0.0048183,99047,https://api.coindix.com/vault/17138/redirect,False,False,C,no
+17600,USDC,Polygon,Cream,0.004802,0.0,0.004802,158047,https://api.coindix.com/vault/17600/redirect,False,False,C,no
+17279,BUSD,Ethereum,Yearn,0.0047,0.0,0.0047,765080,https://api.coindix.com/vault/17279/redirect,False,False,C,no
+22953,DAI,Polygon,Aave,0.00443932,0.0,0.00443932,36627273,https://api.coindix.com/vault/22953/redirect,False,False,B,no
+22941,USDC,Ethereum,Aave,0.00433931,0.0,0.00433931,1372400723,https://api.coindix.com/vault/22941/redirect,False,False,A,no
+272164,TUSD-USDC,Ethereum,Uniswap,0.0042177,0.0,0.0042177,10074906,https://api.coindix.com/vault/272164/redirect,False,False,B,no
+39240,USDT,Fantom,Yearn,0.0042,0.0,0.0042,122854,https://api.coindix.com/vault/39240/redirect,False,False,C,no
+22954,USDC,Polygon,Aave,0.00388556,0.0,0.00388556,102139155,https://api.coindix.com/vault/22954/redirect,False,False,A,no
+14227,USDC.E,Avalanche,Aave,0.00385205,0.0,0.00385205,26971645,https://api.coindix.com/vault/14227/redirect,False,False,B,no
+272114,FRAX-USDC,Ethereum,Uniswap,0.0037234,0.0,0.0037234,117172785,https://api.coindix.com/vault/272114/redirect,False,False,A,no
+34990,TUSD,BNB Chain,Alpaca,0.00157911,0.00209779,0.0036769,8816926,https://api.coindix.com/vault/34990/redirect,False,False,C,yes
+63466,USDC-USDT,BNB Chain,MDEX,7.13e-06,0.00366228,0.00366941,9897068,https://api.coindix.com/vault/63466/redirect,False,False,C,yes
+12205,DAI-USDC,Ethereum,Sushi,0.00356821,0.0,0.00356821,53823,https://api.coindix.com/vault/12205/redirect,False,False,C,no
+22943,GUSD,Ethereum,Aave,0.00339478,0.0,0.00339478,8721794,https://api.coindix.com/vault/22943/redirect,False,False,C,no
+56599,FRAX-BUSD,BNB Chain,ApeSwap,0.00331746,0.0,0.00331746,180439,https://api.coindix.com/vault/56599/redirect,False,False,C,no
+14476,USDT-USDC,BNB Chain,Autofarm,0.00329721,0.0,0.00329721,47635,https://api.coindix.com/vault/14476/redirect,False,False,C,no
+14225,DAI.E,Avalanche,Aave,0.00310532,0.0,0.00310532,17300636,https://api.coindix.com/vault/14225/redirect,False,False,B,no
+272132,BUSD-USDC,Ethereum,Uniswap,0.0030937,0.0,0.0030937,23912100,https://api.coindix.com/vault/272132/redirect,False,False,B,no
+272130,DAI-FRAX,Ethereum,Uniswap,0.0029829,0.0,0.0029829,25493439,https://api.coindix.com/vault/272130/redirect,False,False,B,no
+35102,MIM-USDC.e,Avalanche,Sushi,0.00292904,0.0,0.00292904,153789,https://api.coindix.com/vault/35102/redirect,False,False,C,no
+22930,BUSD,Ethereum,Aave,0.00275272,0.0,0.00275272,26794831,https://api.coindix.com/vault/22930/redirect,False,False,B,no
+272188,FRAX-USDC,Optimism,Uniswap,0.0026039,0.0,0.0026039,1062769,https://api.coindix.com/vault/272188/redirect,False,False,C,no
+103308,DAI,BNB Chain,Valas,0.0003,0.0023,0.0026,4220000,https://api.coindix.com/vault/103308/redirect,False,False,C,yes
+273122,USDC-USDT,Optimism,Uniswap,0.0025237,0.0,0.0025237,180032,https://api.coindix.com/vault/273122/redirect,False,False,C,no
+17022,USDC-USDT,Polygon,Beefy,0.00236722,0.0,0.00236722,121030,https://api.coindix.com/vault/17022/redirect,False,False,C,no
+17259,FRAX,Ethereum,Yearn,0.0021,0.0,0.0021,1410921,https://api.coindix.com/vault/17259/redirect,False,False,C,no
+272184,DAI-USDT,Ethereum,Uniswap,0.0020706,0.0,0.0020706,6823048,https://api.coindix.com/vault/272184/redirect,False,False,C,no
+103312,BUSD,BNB Chain,Valas,0.0003,0.0016,0.0019,7870000,https://api.coindix.com/vault/103312/redirect,False,False,C,yes
+103309,USDT,BNB Chain,Valas,0.0003,0.0014,0.0017,7370000,https://api.coindix.com/vault/103309/redirect,False,False,C,yes
+36483,USDC,Fantom,Tarot,0.0016,0.0,0.0016,307371,https://api.coindix.com/vault/36483/redirect,False,False,C,no
+103307,USDC,BNB Chain,Valas,0.0001,0.0014,0.0015,8900000,https://api.coindix.com/vault/103307/redirect,False,False,C,yes
+44806,USDT-USDC,Solana,Saber,0.00146,0.0,0.00146,6413856,https://api.coindix.com/vault/44806/redirect,False,False,C,no
+177617,TOR-BUSD,BNB Chain,ApeSwap,0.00127796,0.0,0.00127796,1009925,https://api.coindix.com/vault/177617/redirect,False,False,C,no
+17280,GUSD,Ethereum,Yearn,0.0011,0.0,0.0011,573625,https://api.coindix.com/vault/17280/redirect,False,False,C,no
+272986,USDT-DAI,Optimism,Uniswap,0.0010063,0.0,0.0010063,254720,https://api.coindix.com/vault/272986/redirect,False,False,C,no
+75205,TUSD-USDC,Cronos,VVS,0.00095,0.0,0.00095,8350000,https://api.coindix.com/vault/75205/redirect,False,False,C,no
+15554,USDT-USDC,Solana,Raydium,0.0008,0.0,0.0008,188640,https://api.coindix.com/vault/15554/redirect,False,False,C,no
+272109,DAI-USDC,Ethereum,Uniswap,0.0006956,0.0,0.0006956,414792697,https://api.coindix.com/vault/272109/redirect,False,False,A,no
+56597,USDT-BUSD,BNB Chain,ApeSwap,0.0006182,0.0,0.0006182,1366244,https://api.coindix.com/vault/56597/redirect,False,False,C,no
+56598,USDC-BUSD,BNB Chain,ApeSwap,0.00061777,0.0,0.00061777,2220369,https://api.coindix.com/vault/56598/redirect,False,False,C,no
+44817,MAI-USDC,Solana,Saber,0.00019,0.0004,0.00059,49357,https://api.coindix.com/vault/44817/redirect,False,False,C,yes
+272108,DAI-USDC,Ethereum,Uniswap,0.0003973,0.0,0.0003973,878370463,https://api.coindix.com/vault/272108/redirect,False,False,A,no
+122113,USDC.e-USDC,Avalanche,Sushi,0.00034804,0.0,0.00034804,61362,https://api.coindix.com/vault/122113/redirect,False,False,C,no
+274669,BUSD-JCHF,BNB Chain,Ellipsis,0.0003,0.0,0.0003,65947,https://api.coindix.com/vault/274669/redirect,False,False,C,no
+272123,DAI-USDC,Ethereum,Uniswap,0.0002613,0.0,0.0002613,49457094,https://api.coindix.com/vault/272123/redirect,False,False,B,no
+66375,MAI-USDC,Solana,Quarry,0.0,0.0002,0.0002,49152,https://api.coindix.com/vault/66375/redirect,False,False,C,yes
+274217,MIM-USDT,Ethereum,Uniswap,0.0001728,0.0,0.0001728,52804,https://api.coindix.com/vault/274217/redirect,False,False,C,no
+13545,FRAX-USDC,Moonriver,Sushi,0.00012382,0.0,0.00012382,47959,https://api.coindix.com/vault/13545/redirect,False,False,C,no
